@@ -1,4 +1,4 @@
-# ShowPoint RMA 🎬
+# ShowPoint
 
 Android app for tracking TV shows — browse series, rate them, and keep track of watched episodes.
 
