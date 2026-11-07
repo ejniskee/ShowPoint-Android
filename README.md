@@ -4,14 +4,14 @@ Android app for tracking TV shows — browse series, rate them, and keep track o
 
 ## Features
 
-- 📺 Browse a list of TV shows with posters, genres, and average ratings
-- 📖 View show details — description, seasons, and episodes
-- 🔐 User login & registration (JWT authentication)
-- ⭐ Rate shows (1–5 stars) with optional comments
-- ✅ Mark episodes as watched with progress percentage
-- 🎥 Search for trailers on YouTube (implicit Intent)
-- 📴 Offline access to the show list (Room cache)
-- 📱 Adaptive UI — phone (single-pane) and tablet (master-detail)
+-  Browse a list of TV shows with posters, genres, and average ratings
+-  View show details — description, seasons, and episodes
+-  User login & registration (JWT authentication)
+-  Rate shows (1–5 stars) with optional comments
+-  Mark episodes as watched with progress percentage
+-  Search for trailers on YouTube (implicit Intent)
+-  Offline access to the show list (Room cache)
+-  Adaptive UI — phone (single-pane) and tablet (master-detail)
 
 ## Architecture
 
